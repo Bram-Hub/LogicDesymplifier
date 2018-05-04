@@ -19,9 +19,9 @@ The application interface supplies 3 input boxes.
   
 **Keyboard to Logic Symbol Key**
 
-¬ = ~
-∧ = &
-∨ = |
-→ = $
+* ¬ = ~
+* ∧ = &
+* ∨ = |
+* → = $
 
 The software currently only supports single letter naming and negation, boolean, and conditional operators.
