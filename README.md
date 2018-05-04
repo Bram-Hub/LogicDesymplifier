@@ -4,7 +4,7 @@ Python application that converts logic statements using standard equivalence rul
 Running the Application
 -----------------------
 
-The application can be started by using the executable named 'desymplifier' in the /dist/ directory
+The application can be started by using the executable named 'desymplifier' in the /dist/desymplifier directory
 
 Usage
 -----
