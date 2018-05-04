@@ -1,0 +1,15 @@
+missing module named 'org.python' - imported by pickle, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py, xml.sax
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py
+missing module named _winreg - imported by platform, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py
+missing module named 'java.lang' - imported by platform, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py
+missing module named winreg - imported by platform, mimetypes, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py, urllib.request
+missing module named nt - imported by os, ntpath, shutil, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py
+missing module named ce - imported by os, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py
+missing module named msvcrt - imported by subprocess, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py, getpass
+missing module named _winapi - imported by subprocess, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py
+missing module named _dummy_threading - imported by dummy_threading, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py
+missing module named org - imported by copy, /home/torelj/Documents/Logic/Desymplifier/desymplifier.py
