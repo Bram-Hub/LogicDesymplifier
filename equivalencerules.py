@@ -297,7 +297,7 @@ class BoolEquiv(object):
                     sen.right_sen, sen.left_sen.right_sen, '&'), '|', sen.get_negations(), sen.get_steps())
                 new_sen.add_step('DISTR')
                 return new_sen
-            elif type(sen.right_sen) is Sentence and sen_rightt_sen.oper is '|':
+            elif type(sen.right_sen) is Sentence and sen.right_sen.oper is '|':
                 new_sen = Sentence(Sentence(sen.left_sen, sen.right_sen.left_sen, '&'), Sentence(
                     sen.left_sen, sen.right_sen.right_sen, '&'), '|', sen.get_negations(), sen.get_steps())
                 new_sen.add_step('DISTR')
@@ -308,7 +308,7 @@ class BoolEquiv(object):
                     sen.right_sen, sen.left_sen.right_sen, '|'), '&', sen.get_negations(), sen.get_steps())
                 new_sen.add_step('DISTR')
                 return new_sen
-            elif type(sen.right_sen) is Sentence and sen_rightt_sen.oper is '&':
+            elif type(sen.right_sen) is Sentence and sen.right_sen.oper is '&':
                 new_sen = Sentence(Sentence(sen.left_sen, sen.right_sen.left_sen, '&'), Sentence(
                     sen.left_sen, sen.right_sen.right_sen, '|'), '&', sen.get_negations(), sen.get_steps())
                 new_sen.add_step('DISTR')

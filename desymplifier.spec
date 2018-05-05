@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['desymplifier.py'],
-             pathex=['/home/torelj/Documents/Logic/Desymplifier'],
+             pathex=['C:\\Users\\Jeremy\\Documents\\git\\LogicDesymplifier'],
              binaries=[],
              datas=[],
              hiddenimports=[],
