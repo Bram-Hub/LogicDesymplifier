@@ -1,4 +1,9 @@
 # LogicDesymplifier
+## Authors
+2018:
+Jeremy Torella
+
+## About
 Python application that converts logic statements using standard equivalence rules
 
 Running the Application
